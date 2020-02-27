@@ -1,0 +1,12 @@
+body{background-color:#9de3d0;}
+h1{color:#beebe9;}
+h3{color:#e8f9e9;}
+
+hr {
+  border-top: 30px dotted green;
+  width: 15%;
+}
+.Skills{color:#00a8cc;}
+.Hobbies{color:#ff2e63;}
+.jule{border-radius: 50%}
+.jule:hover{box-shadow: 5px 10px #00a8cc;}
